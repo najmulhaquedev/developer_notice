@@ -6,7 +6,7 @@
       "status": "online",
       "password": "alinajdev",
       "domain": "trustlivear.xyz",
-      "post_api": "/v1/json/update",
+      "post_api": "/api/json/update",
       "hash": "fd54bac1428f603b3cbc"
     },
     {
