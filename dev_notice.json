@@ -5,9 +5,9 @@
       "app_name": "AliNaj Build",
       "status": "online",
       "password": "alinajdev",
-      "domain": "trustlivear.xyz",
-      "post_api": "/api/json/update",
-      "hash": "fd54bac1428f603b3cbc"
+      "domain": "kohinurvipvpn.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "494505CE07A3FD6D3FAC"
     },
     {
       "User": "demo_user_1",
