@@ -1,10 +1,10 @@
 {
   "najmul_dev": [
     {
-      "User": "najmul_dev",
-      "app_name": "AliNaj Build",
+      "User": "abir_dev",
+      "app_name": "Abir Build",
       "status": "online",
-      "password": "alinajdev",
+      "password": "abirdev",
       "domain": "trustlivear.xyz",
       "post_api": "/v1/json/update",
       "hash": "fd54bac1428f603b3cbc"
