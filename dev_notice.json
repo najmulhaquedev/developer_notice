@@ -10,10 +10,10 @@
       "hash": "7399080c1a1403f78298"
     },
      {
-      "User": "alinaj_dev",
+      "User": "najmu_dev",
       "app_name": "AliNaj Build",
       "status": "online",
-      "password": "alinaj",
+      "password": "najdev",
       "domain": "kohinurvipvpn.xyz",
       "post_api": "/v1/json/update",
       "hash": "3ad24d42b510cf018022"
