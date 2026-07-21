@@ -18,15 +18,6 @@
       "post_api": "/v1/json/update",
       "hash": "3ad24d42b510cf018022"
     },
-    {
-      "User": "fnd_dev",
-      "app_name": "AliNaj Build",
-      "status": "online",
-      "password": "najdev",
-      "domain": "kohinurvipvpn.xyz",
-      "post_api": "/v1/json/update",
-      "hash": "3ad24d42b510cf018022"
-    },
      {
       "User": "ar4he_abir_1",
       "app_name": "Demo Tunnel One",
