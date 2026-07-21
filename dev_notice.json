@@ -9,6 +9,15 @@
       "post_api": "/v1/json/update",
       "hash": "7399080c1a1403f78298"
     },
+     {
+      "User": "update_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "update",
+      "domain": "kohinurvipvpn.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "3ad24d42b510cf018022"
+    },
     {
       "User": "fnd_dev",
       "app_name": "AliNaj Build",
