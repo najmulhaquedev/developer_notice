@@ -17,8 +17,8 @@
       "status": "online",
       "password": "alinaj",
       "domain": "kohinurvipvpn.xyz",
-      "post_api": "/v1/json/update",
-      "hash": "3ad24d42b510cf018022"
+      "post_api": "/api/files/update",
+      "hash": "4c10fce1d9de234f3fcb"
     }
   ],
   "ar4he_abir_1": [
