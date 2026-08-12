@@ -21,15 +21,15 @@
       "hash": "4c10fce1d9de234f3fcb"
     }
   ],
-  "ar4he_abir_1": [
+  "freeapp_dev": [
     {
-      "User": "ar4he_abir_1",
-      "app_name": "Demo Tunnel One",
+      "User": "freeapp_dev",
+      "app_name": "AliNaj Build",
       "status": "online",
-      "password": "abir123",
-      "domain": "trustlivear.xyz",
+      "password": "freeapp",
+      "domain": "kohinurvipvpn.xyz",
       "post_api": "/v1/json/update",
-      "hash": "fd54bac1428f603b3cbc"
+      "hash": "6f6d17a9dadbf8c2e7a3"
     }
   ],
   "demo_user_2": [
