@@ -27,8 +27,8 @@
       "app_name": "AliNaj Build",
       "status": "online",
       "password": "alinaj",
-      "domain": "alinajdev.com",
-      "post_api": "/api/files/update",
+      "domain": "kohinurvipvpn.xyz",
+      "post_api": "/v1/json/update",
       "hash": "4c10fce1d9de234f3fcb"
     }
   ],
