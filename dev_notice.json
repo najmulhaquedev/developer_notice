@@ -54,9 +54,9 @@
       "hash": "f6e5d4c3b2a1"
     }
   ],
-  "najmul_dev": [
+  "testing_dev": [
     {
-      "User": "najmul_dev",
+      "User": "testing_dev",
       "app_name": "AliNaj Build",
       "status": "online",
       "password": "najdev",
