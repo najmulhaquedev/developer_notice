@@ -56,11 +56,12 @@
   ]
   "najmul_dev": [
     {
-      "password": "alinaj",
+      "User": "najmu_dev",
+      "app_name": "AliNaj Build",
       "status": "online",
+      "password": "najdev",
       "domain": "alinajdev.com",
-      "hash": "48d905008fb6cecf2016",
-      "app_name": "AliNaj Build"
+      "post_api": "/v1/json/update",
+      "hash": "48d905008fb6cecf2016"
     }
-  ]
 }
