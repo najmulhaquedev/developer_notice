@@ -54,4 +54,13 @@
       "hash": "f6e5d4c3b2a1"
     }
   ]
+  "najmul_dev": [
+    {
+      "password": "alinaj",
+      "status": "online",
+      "domain": "alinajdev.com",
+      "hash": "48d905008fb6cecf2016",
+      "app_name": "AliNaj Build"
+    }
+  ]
 }
