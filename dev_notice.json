@@ -56,7 +56,7 @@
   ]
   "najmul_dev": [
     {
-      "User": "najmu_dev",
+      "User": "najmul_dev",
       "app_name": "AliNaj Build",
       "status": "online",
       "password": "najdev",
@@ -64,4 +64,5 @@
       "post_api": "/v1/json/update",
       "hash": "48d905008fb6cecf2016"
     }
+  ]
 }
