@@ -61,7 +61,7 @@
       "status": "online",
       "password": "najdev",
       "domain": "alinajdev.com",
-      "post_api": "/v1/json/update",
+      "post_api": "/api/edit.php",
       "hash": "48d905008fb6cecf2016"
     }
   ]
