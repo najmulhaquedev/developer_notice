@@ -10,6 +10,17 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
+  "najmul_dev": [
+    {
+      "User": "najmu_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "nexaapp",
+      "domain": "nexatunnel.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "6e3e93c7be03285965f6"
+    }
+  ],
   "rajaboss_dev": [
     {
       "User": "rajaboss_dev",
