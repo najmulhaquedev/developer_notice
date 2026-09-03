@@ -10,6 +10,17 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
+  "flexnet_dev": [
+    {
+      "User": "flexnet_dev",
+      "app_name": "FlexNet Build",
+      "status": "online",
+      "password": "flexnet",
+      "domain": "kohinurvipvpn.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "5cf8f9cd72a498422a4a"
+    }
+  ],
   "nexaapp_dev": [
     {
       "User": "nexaapp_dev",
