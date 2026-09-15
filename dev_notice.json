@@ -10,15 +10,15 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
-  "flexnet_dev": [
+  "tourvpn_dev": [
     {
-      "User": "flexnet_dev",
-      "app_name": "FlexNet Build",
+      "User": "tourvpn_dev",
+      "app_name": "TourVPN Build",
       "status": "online",
-      "password": "flexnet",
+      "password": "tourvpn",
       "domain": "kohinurvipvpn.xyz",
       "post_api": "/v1/json/update",
-      "hash": "5cf8f9cd72a498422a4a"
+      "hash": "2b8ef1b8311058d80c49"
     }
   ],
   "nexaapp_dev": [
