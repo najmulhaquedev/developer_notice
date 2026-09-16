@@ -9,6 +9,26 @@
       "post_api": "/v1/json/update",
       "hash": "7399080c1a1403f78298"
     }
+  ],"najmul_dev": [
+    {
+      "User": "najmu_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "najdev",
+      "domain": "kohinurvipvpn.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "7399080c1a1403f78298"
+    }
+  ],"paknet_dev": [
+    {
+      "User": "paknet_dev",
+      "app_name": "PakNet Build",
+      "status": "online",
+      "password": "paknet",
+      "domain": "kohinurvipvpn.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "ac6262e8d0ca48e76a87"
+    }
   ],
   "tourvpn_dev": [
     {
