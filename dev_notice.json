@@ -9,15 +9,15 @@
       "post_api": "/v1/json/update",
       "hash": "7399080c1a1403f78298"
     }
-  ],"najmul_dev": [
+  ],"pakvpn_dev": [
     {
-      "User": "najmu_dev",
-      "app_name": "AliNaj Build",
+      "User": "pakvpn_dev",
+      "app_name": "PakVPN Build",
       "status": "online",
-      "password": "najdev",
+      "password": "pakvpn",
       "domain": "kohinurvipvpn.xyz",
       "post_api": "/v1/json/update",
-      "hash": "7399080c1a1403f78298"
+      "hash": "d939cb49f2a3b7411bfc"
     }
   ],"paknet_dev": [
     {
