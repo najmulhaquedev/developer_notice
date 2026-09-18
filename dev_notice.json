@@ -9,7 +9,19 @@
       "post_api": "/v1/json/update",
       "hash": "7399080c1a1403f78298"
     }
-  ],"pakvpn_dev": [
+  ],
+  "pluse_dev": [
+    {
+      "User": "pluse_dev",
+      "app_name": "Pluse Build",
+      "status": "online",
+      "password": "pluse",
+      "domain": "kohinurvipvpn.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "ebff3168773f4942c091"
+    }
+  ],
+  "pakvpn_dev": [
     {
       "User": "pakvpn_dev",
       "app_name": "PakVPN Build",
