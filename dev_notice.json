@@ -10,6 +10,17 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
+  "tntnetvpn_dev": [
+    {
+      "User": "tntnetvpn_dev",
+      "app_name": "TntNetvpn Build",
+      "status": "online",
+      "password": "tntnetvpn",
+      "domain": "kohinurvipvpn.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "096905336e41e461da97"
+    }
+  ],
   "tnttunnel_dev": [
     {
       "User": "tnttunnel_dev",
