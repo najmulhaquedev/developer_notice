@@ -10,6 +10,17 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
+  "tntvpnfast_dev": [
+    {
+      "User": "tntvpnfast_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "tntvpnfast",
+      "domain": "kohinurvipvpn.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "486b80253e0badfa8c2b"
+    }
+  ],
   "tntplusvpn_dev": [
     {
       "User": "tntplusvpn_dev",
