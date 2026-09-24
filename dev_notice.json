@@ -10,6 +10,17 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
+  "paidapp_dev": [
+    {
+      "User": "paidapp_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "paidapp",
+      "domain": "kohinurvipvpn.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "7cf7f282a37e595a72a6"
+    }
+  ],
   "nextgen_dev": [
     {
       "User": "nextgen_dev",
