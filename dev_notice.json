@@ -174,6 +174,17 @@
       "hash": "89865d26405378d8613b"
     }
   ],
+  "rajabosss_dev": [
+    {
+      "User": "rajabosss_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "rajabosss",
+      "domain": "kohinurvipvpn.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "0fe04f53f5f4ef3986f4"
+    }
+  ],
   "alinaj_dev": [
     {
       "User": "alinaj_dev",
