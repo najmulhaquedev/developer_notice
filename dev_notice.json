@@ -10,15 +10,15 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
-  "medocus_dev": [
+  "medocas_dev": [
     {
-      "User": "medocus_dev",
+      "User": "medocas_dev",
       "app_name": "AliNaj Build",
       "status": "online",
-      "password": "medocus",
-      "domain": "medocasfastvpn.xyz",
+      "password": "medocas",
+      "domain": "homefastvip.xyz",
       "post_api": "/api/edit.php",
-      "hash": "5178da99965358ea6377"
+      "hash": "c43f8a629d6dbb7b04b3"
     }
   ],
   "paidapp_dev": [
