@@ -10,6 +10,17 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
+  "testpanel_dev": [
+    {
+      "User": "testpanel_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "testpanel",
+      "domain": "alinajdev.com",
+      "post_api": "/v1/json/update",
+      "hash": "732b64484021af44dd99"
+    }
+  ],
   "medocas_dev": [
     {
       "User": "medocas_dev",
