@@ -28,7 +28,7 @@
       "status": "online",
       "password": "medocas",
       "domain": "kohinurvipvpn.xyz",
-      "post_api": "/api/edit.php",
+      "post_api": "/v1/json/update",
       "hash": "a1f6b35c1e3e18751f83"
     }
   ],
