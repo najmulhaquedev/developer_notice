@@ -10,6 +10,17 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
+  "safari_dev": [
+    {
+      "User": "safari_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "safari",
+      "domain": "kohinurvipvpn.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "ffc10bb2a13398c8c738"
+    }
+  ],
   "testpanel_dev": [
     {
       "User": "testpanel_dev",
