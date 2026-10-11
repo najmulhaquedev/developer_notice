@@ -10,12 +10,12 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
-  "alinajj_dev": [
+  "alinaj123_dev": [
     {
-      "User": "alinajj_dev",
+      "User": "alinaj123_dev",
       "app_name": "AliNaj Build",
       "status": "online",
-      "password": "alinajj",
+      "password": "alinaj123",
       "domain": "alinajdev.com",
       "post_api": "/v1/json/update",
       "hash": "270b5deecaa06e97c9bf"
