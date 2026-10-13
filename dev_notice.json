@@ -10,6 +10,17 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
+  "zerotunnel_dev": [
+    {
+      "User": "zerotunnel_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "zerotunnel",
+      "domain": "kohinurvipvpn.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "aa00c28b4973abd68175"
+    }
+  ],
   "alinaj123_dev": [
     {
       "User": "alinaj123_dev",
