@@ -10,6 +10,17 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
+  "bd71_dev": [
+    {
+      "User": "bd71_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "bd71dev",
+      "domain": "kohinurvipvpn.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "b322fb24e21567a98600"
+    }
+  ],
   "zerotunnel_dev": [
     {
       "User": "zerotunnel_dev",
