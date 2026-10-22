@@ -10,6 +10,17 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
+  "pointvpn_dev": [
+    {
+      "User": "pointvpn_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "pointvpn",
+      "domain": "xxxbeeghub.com",
+      "post_api": "/v1/json/update",
+      "hash": "2a8ce542b5660f5b7696"
+    }
+  ],
   "bd71_dev": [
     {
       "User": "bd71_dev",
