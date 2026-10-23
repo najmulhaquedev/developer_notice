@@ -10,6 +10,17 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
+"xcard_dev": [
+    {
+      "User": "xcard_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "xcardvpn",
+      "domain": "alinajdev.com",
+      "post_api": "/v1/json/update",
+      "hash": "21f6006eab80e5afa4e5"
+    }
+  ],
   "pointvpn_dev": [
     {
       "User": "pointvpn_dev",
