@@ -10,6 +10,17 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
+  "v2ray_dev": [
+    {
+      "User": "v2ray_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "v2ray",
+      "domain": "alinajdev.com",
+      "post_api": "/v1/json/update",
+      "hash": "64c98343158ce095949f"
+    }
+  ],
 "xcard_dev": [
     {
       "User": "xcard_dev",
