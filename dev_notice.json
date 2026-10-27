@@ -10,6 +10,18 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
+  
+  "luluv2ray_dev": [
+    {
+      "User": "luluv2ray_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "luluv2ray",
+      "domain": "luluv2rayvpn.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "f3442758f88396d1ac9b"
+    }
+  ],
   "v2ray_dev": [
     {
       "User": "v2ray_dev",
