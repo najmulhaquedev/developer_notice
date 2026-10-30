@@ -10,6 +10,17 @@
       "hash": "7399080c1a1403f78298"
     }
   ],
+   "tunnelxv2ray_dev": [
+    {
+      "User": "tunnelxv2ray_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "tunnelxv2ray",
+      "domain": "tunnelxv2ray.win",
+      "post_api": "/v1/json/update",
+      "hash": "deffcfcc9075a9042014"
+    }
+  ],
   
   "luluv2ray_dev": [
     {
